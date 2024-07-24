@@ -1,0 +1,1 @@
+This repository contains HTML files for my website thelucenguyen.github.io. I wanted to make minimal, low-resource websites inspired by the webpages of the mathematicians Keith Konrad (University of Connecticut) and Arnold Neumaier (Universität Wien). 
